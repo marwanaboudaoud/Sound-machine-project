@@ -56,7 +56,6 @@ color:black;
 }
 
 .sound-button:hover {
-  font-size: 140%;
   background-color: #c6c4c4;
 }
 
@@ -81,7 +80,6 @@ color:black;
 }
 
 .control-button:hover {
-  font-size: 110%;
   background-color: #c6c4c4;
 }
 
